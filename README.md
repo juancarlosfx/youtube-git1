@@ -1,6 +1,8 @@
 # Curso de _Git_ & _GitHub_
-Hola soy tu amigo y docente digital Jonathan Mircha, bienvenidos a mi curso.
+Hola soy tu amigo y docente digital Jonathan Mircha bienvenidos a mi curso.
 
-Agregando más contenido al _README.md_
+¿Quieres dominar el curso de _git_?
 
-Este commit es para oficializar nuestra version **1.0.0**.
+Mira este [enlace](https://jonmircha.com/git).
+
+![Flujo de Git](git-flow.png)git 
