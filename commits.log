@@ -1,3 +1,61 @@
+commit 8646e1cf0b522ef8c6bb3c2f8a1161b4385a11da
+Merge: 5dc2930 a806e36
+Author: juancarlosfx <116538698+juancarlosfx@users.noreply.github.com>
+Date:   Fri Dec 2 22:01:32 2022 -0500
+
+    Merge pull request #1 from jcaeva/readme-jcaeva
+    
+    Readme jcaeva
+
+commit a806e360ce5f4531ed6f7badb4dca410ab2d3b90
+Author: jcaeva <jcaeva@outlook.com>
+Date:   Fri Dec 2 20:09:12 2022 -0500
+
+    Haciendo mejoras al README del repositorio
+
+commit be96e252f0a9564c9580735a3a1df129742d55d3
+Author: jcaeva <jcaeva@outlook.com>
+Date:   Fri Dec 2 00:05:53 2022 -0500
+
+    Haciendo mejoras al README del repositorio
+
+commit 1481ae96ee1da3b1f8f164ea98ba27e187cc0459
+Author: jcaeva <jcaeva@outlook.com>
+Date:   Thu Dec 1 22:25:22 2022 -0500
+
+    Cambio de prueba de la segunda cuenta de git
+
+commit 5dc293057978348f21ff1da3ccdcd4770e7ba938
+Merge: 5bbf7c8 ec0e3de
+Author: Juan Espinoza <juancarlosfx@yahoo.com>
+Date:   Wed Nov 30 22:51:42 2022 -0500
+
+    Merge branch 'main' of https://github.com/juancarlosfx/youtube-git1
+
+commit 5bbf7c8cb84f5911e53ba177233f3a1dcddce873
+Author: Juan Espinoza <juancarlosfx@yahoo.com>
+Date:   Wed Nov 30 22:48:23 2022 -0500
+
+    Agregando imagen de flujo Git y poniendo chulo el index.html
+
+commit ec0e3dee58fa08fd753cb78cec80eb6bd6f6c66f
+Author: Juan Espinoza <juancarlosfx@yahoo.com>
+Date:   Wed Nov 30 22:48:23 2022 -0500
+
+    Agregando imagen de flujo Git y poniendo chulo el index.html
+
+commit e5acd419af289278d06a1423bfcb79fa8791c046
+Author: Juan Espinoza <juancarlosfx@yahoo.com>
+Date:   Tue Nov 29 17:04:08 2022 -0500
+
+    v1.0.0
+
+commit a9f85231ae03dce3b5a7d10a2eb78ba77ea2e264
+Author: Juan Espinoza <juancarlosfx@yahoo.com>
+Date:   Mon Nov 28 23:05:27 2022 -0500
+
+    Respaldando logs del repositorio
+
 commit 40935a439ad9d80ff80290929d9022bbb117764a
 Author: Juan Espinoza <juancarlosfx@yahoo.com>
 Date:   Mon Nov 28 12:38:31 2022 -0500
