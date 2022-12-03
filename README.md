@@ -5,4 +5,4 @@ Hola soy tu amigo y docente digital Jonathan Mircha bienvenidos a mi curso.
 
 Mira este [enlace](https://jonmircha.com/git).
 
-![Flujo de Git](git-flow.png)
+![Flujo de Git](git-flow.png)git 
